@@ -1,0 +1,5 @@
+{
+    "dataset_path": "/home/mszul/datasets/eeg_emg_hand_mv",
+    "downsample_dataset": 250,
+    "hi_pass_filter": 120
+}
